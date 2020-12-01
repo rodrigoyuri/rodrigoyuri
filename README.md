@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, me chamo Rodrigo, seu desenvolvedor Web e aqui é meu repositório onde você pode dar uma olhada no que ando fazendo e desenvolvendo beleza :+1:.
+
+### As principais tecnologias que utilizo são:
+- PHP.
+- JavaScript.
+- HTML e CSS.
+
+### Estou sempre estudando e em busca de melhorias do que sei e novas tecnologias, então por mais que eu mexe mais com aquelas tecnologias pode apostar que vai encontrar projetos com diversas tecnologias também :grimacing:.
 
 <!--
 **rodrigoyuri/rodrigoyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
