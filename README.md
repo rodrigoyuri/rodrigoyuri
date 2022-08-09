@@ -12,7 +12,7 @@
 - Vuejs
 - TypeScript
 
-### Estou estudando sempre e em buscando evoluir o que sei e aprender mais e mais novas tecnologias, então pode apostar que vai encontrar projetos com diversas tecnologias aqui :grimacing:.
+### Estou estudando sempre, buscando evoluir o que sei e aprender mais e mais novas tecnologias e ferramentas, então pode apostar que vai encontrar projetos com diversas tecnologias aqui :grimacing:.
 
 ### Então fique a vontade para funçar meus codigos e qualquer feedback que você tenha para me ajudar a melhorar ainda mais, só me enviar pois vou gostar bastante
 
